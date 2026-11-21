@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Amaka Phone Operator</string>
+    <string name="accessibility_description">Allows Amaka to read visible interface labels and perform user-requested taps, scrolling and navigation.</string>
+</resources>
